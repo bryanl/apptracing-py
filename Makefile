@@ -1,4 +1,8 @@
-.PHONY: import-people
+.PHONY: create-db import-people
+
+# install python deps
+install-deps:
+	pip install -r requirements.txt
 
 # create database
 create-db:
