@@ -1,0 +1,7 @@
+jaeger-client
+Flask-Opentracing
+Flask-SQLAlchemy
+psycopg2
+flask-marshmallow
+marshmallow-sqlalchemy
+jaeger-client
