@@ -6,6 +6,7 @@ To fetch the source:
 
 ## Getting started
 
+1. Update docker compose to latest version: `pip install -U docker-compose`
 1. Create docker environment: `docker-compose up -d`
 1. Create database: `make create-db`
 1. Import test data: `make import-people`
