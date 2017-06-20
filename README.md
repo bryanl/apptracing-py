@@ -2,7 +2,7 @@
 
 To fetch the source:
 
-`git clone git@github.com/bryanl/apptracing-py`
+`git clone git@github.com:bryanl/apptracing-py.git`
 
 ## Getting started
 
