@@ -4,4 +4,3 @@ Flask-SQLAlchemy
 psycopg2
 flask-marshmallow
 marshmallow-sqlalchemy
-jaeger-client
